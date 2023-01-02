@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+![visitors](https://komarev.com/ghpvc/?username=adityeah2k)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityeah2k&theme=dark&show_icons=true)
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityeah2k&layout=compact&theme=dark&show_icons=true)
