@@ -5,9 +5,9 @@
 
 <!--[visitors](https://komarev.com/ghpvc/?username=adityeah2k)-->
 
-![aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityeah2k&theme=dark&show_icons=true)
+![aditya's github stats](https://github-readme-stats.vercel.app/api?username=bhagat2k&theme=dark&show_icons=true)
 
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityeah2k&layout=compact&theme=dark&show_icons=true)
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat2k&layout=compact&theme=dark&show_icons=true)
 
 <!--
 **adityeah2k/adityeah2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
