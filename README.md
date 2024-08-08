@@ -5,7 +5,7 @@
 
 <!--[visitors](https://komarev.com/ghpvc/?username=adityeah2k)-->
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=bhagat2k&theme=dark&show_icons=true)
+![Aditya Bhagat's github stats](https://github-readme-stats.vercel.app/api?username=bhagat2k&theme=dark&show_icons=true)
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat2k&layout=compact&theme=dark&show_icons=true)
 
