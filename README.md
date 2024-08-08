@@ -1,11 +1,11 @@
 <!--### Hi there 👋-->
 
-<h1> hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-<!--[visitors](https://komarev.com/ghpvc/?username=adityeah2k)-->
+<!--[visitors](https://komarev.com/ghpvc/?username=bhagat2k)-->
 
-![Aditya Bhagat's github stats](https://github-readme-stats.vercel.app/api?username=bhagat2k&theme=dark&show_icons=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagat2k&theme=dark&show_icons=true)
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat2k&layout=compact&theme=dark&show_icons=true)
 
